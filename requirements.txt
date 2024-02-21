@@ -1,0 +1,6 @@
+customtkinter==5.2.2
+mfrc522==0.0.7
+Pillow==10.2.0
+pygame==2.5.2
+supabase==2.3.4
+websockets==11.0.3
